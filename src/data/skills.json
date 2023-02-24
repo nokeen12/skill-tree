@@ -1,0 +1,37 @@
+{
+    "frontEnd": [
+        {
+            "internet": {
+                "children": ["How does the internet work?", "What is HTTP?", "Browsers and how they work?"]
+            }
+        },
+        {
+            "html":{
+                "children": ["Learn the basics", "Writing Semantic HTML", "Forms and Validations"]
+            },
+            "css":"",
+            "javascript":""
+        },
+        {
+            "version control systems": {
+                "branches":["Basic Usage of Git", {
+                    "parent": "Repo hosting services",
+                    "children": ["GitHub", "Gitlab", "Bitbucket"]
+                }]
+            }
+        },
+        {
+            "basic usage of git": ""
+        },
+        {
+            "web security knowledge":""
+        },
+        {   }
+    ],
+    "backEnd": [
+
+    ],
+    "fullStack": [
+
+    ]
+}
