@@ -21,12 +21,53 @@
             }
         },
         {
-            "basic usage of git": ""
+            "web security knowledge": ""
         },
         {
-            "web security knowledge":""
+            "package managers": "",
+            "css architecture": "",
+            "css preprocessors": ""
         },
-        {   }
+        {
+            "build tools": "",
+            "pick a framework": ""
+        },
+        {
+            "modern css": ""
+        },
+        {
+            "css frameworks": ""
+        },
+        {
+            "testing your apps": ""
+        },
+        {
+            "authentication strategies": ""
+        },
+        {
+            "web components": ""
+        },
+        {
+            "type checkers": ""
+        },
+        {
+            "progressive web apps": ""
+        },
+        {
+            "server side rendering (ssr)": ""
+        },
+        {
+            "static site generators": ""
+        },
+        {
+            "graphql": ""
+        },
+        {
+            "mobile applications": ""
+        },
+        {
+            "desktop applications": ""
+        }
     ],
     "backEnd": [
 
